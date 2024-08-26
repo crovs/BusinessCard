@@ -29,7 +29,7 @@ This app was all about diving deeper into SwiftUI and learning some cool tricks 
 
 Want to see it in action? It’s easy:
 
-1. **Clone the repo**: `git clone https://github.com/your-repo/BusinessCard.git`
+1. **Clone the repo**: `git clone https://github.com/crovs/BusinessCard.git`
 2. **Open in Xcode**: Fire up Xcode and open the project.
 3. **Run it**: Build and run on your preferred device or simulator.
 
